@@ -43,7 +43,6 @@ def number_squared_cust(number, power):
 
 # In[9]:
 
-
 number_squared_cust(power = 5, number = 2)
 
 
