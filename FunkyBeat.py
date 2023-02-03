@@ -22,6 +22,7 @@ def first_function():
 
 
 #the function and its body above does not execute, rather
+
 #it defines the function. It seems the cool guys calls it 'declare', not sure though
 
 #That aside, while still on the matters of mortals and mere humans, phhh! ...
