@@ -39,10 +39,6 @@ first_function()
 
 # In[ ]:
 
-
-
-
-
 # In[6]:
 
 
