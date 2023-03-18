@@ -6,6 +6,7 @@
 
 
 #Method 1:
+
     
 def number_squared (number, power):
     
