@@ -8,7 +8,6 @@
 #the first keyword for defining a functino is 'def'
 
 
-
 # In[2]:
 
 
