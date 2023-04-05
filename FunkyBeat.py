@@ -10,7 +10,6 @@
 
 # In[2]:
 
-
 def first_function():
     
     print('We did it!')
